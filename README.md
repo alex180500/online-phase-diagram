@@ -1,6 +1,6 @@
 # Streamlit Phase Diagram
 
-<img src="images/phase_picker" height="200"/> <img src="images/md_animation.png" height="200"/> <img src="images/md_graph.png" height="200"/>
+<img src="images/phase_picker.png" height="200"/> <img src="images/md_animation.png" height="200"/> <img src="images/md_graph.png" height="200"/>
 
 I made this script for people who wants to use [Phase Diagram](https://github.com/alex180500/open-computational-physics/tree/main/molecular-dynamics) but may prefer a simpler online-based version.
 
