@@ -4,7 +4,7 @@
 
 I made this script for people who wants to use [Phase Diagram](https://github.com/alex180500/open-computational-physics/tree/main/molecular-dynamics) but may prefer a simpler online-based version.
 
-**The code can be run online using this link:** https://share.streamlit.io/alex180500/
+**The code can be run online using this link:** https://share.streamlit.io/alex180500/online-phase-diagram/main/online_MD.py
 
 All of the code is distributed under the [MIT License](LICENSE) and is free to use for any purpose, please credit me if possible if you want to use it.
 
