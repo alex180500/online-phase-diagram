@@ -18,7 +18,7 @@ folder = 'data/' + \
 st.write(f"""
 # Phase Diagram Explorer
 Molecular Dynamics data visualizer *by Alessandro Romancino*  
-https://github.com/alex180500/open-computational-physics  
+https://github.com/alex180500/online-phase-diagram  
 ## T = {temp:.1f} T\* &emsp; ρ = {rho:.1f} ρ\*
 """)
 
